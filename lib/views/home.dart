@@ -52,7 +52,7 @@ class _HomeState extends State<Home> {
             Text('News'),
             Text('India',
             style: TextStyle(
-              color: Colors.blue,
+              color: Colors.deepOrange,
               fontWeight: FontWeight.bold,
             ),),
 
